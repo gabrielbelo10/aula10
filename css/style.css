@@ -4,7 +4,7 @@
   border: 0px;
   margin: 0px;
   box-sizing: border-box;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: Roboto;
 }
 
 /****** layouy *****/
@@ -22,6 +22,11 @@
   top: 38px;
   background-color: #00669f;
   position: absolute;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 47px;
 }
 
 .hero {
